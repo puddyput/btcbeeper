@@ -1,0 +1,3 @@
+fetches the current BTC/USD rate via blockchain.info every minute.
+if rate higher than a minute ago, plays a high pitched beep. if lower, a low pitched beep. no beep if equal.
+
